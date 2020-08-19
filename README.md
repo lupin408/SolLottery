@@ -1,0 +1,2 @@
+# SolLottery
+Solidity lottery
